@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e28def8c-142f-4397-a14e-153747f95e07" name="bekhruz.uz" url="http://bekhruz.uz">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\bekhruz" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
