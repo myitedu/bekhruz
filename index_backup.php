@@ -127,8 +127,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col col-md-8 slide-caption">
-                            <h2 class="wow fadeInLeftSlow" data-wow-delay="0.5s">I’m <span>Bekhruz</span> Dosmukhamedov</h2>
-                            <p class="wow fadeInUp" data-wow-delay="0.8s">Software Developer</p>
+                            <h2 class="wow fadeInLeftSlow" data-wow-delay="0.5s">I’m <span>John</span> Smith</h2>
+                            <p class="wow fadeInUp" data-wow-delay="0.8s">Freelance UI/UX Designer</p>
                             <div class="bg-social wow fadeInUp" data-wow-delay="1.0s">
                                 <ul>
                                     <li><a href="#"><i class="ti-dribbble"></i></a></li>
@@ -195,7 +195,7 @@
                                                 <div class="wpo-about-text">
                                                     <h2>I create products not just art</h2>
                                                     <p>My name is John Smith. I am a web designer and developer.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. </p>
-                                                    <a href="#" class="theme-btn">Lets Chat</a>
+                                                    <a href="#" class="theme-btn">Lets Talk</a>
                                                 </div>
                                             </div>
                                         </div>
