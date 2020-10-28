@@ -151,9 +151,9 @@
         <div class="wpo-exprience-area">
             <div class="exprience-wrap wow fadeInUp" data-wow-delay="2.0s">
                 <div class="exprience-b">
-                    <h2>7</h2>
+                    <h2>1</h2>
                     <div class="exprience-s">
-                        <span>Years</span>
+                        <span>Year</span>
                         <span>Experience</span>
                     </div>
                 </div>
@@ -193,8 +193,8 @@
                                             </div>
                                             <div class="col-lg-6">
                                                 <div class="wpo-about-text">
-                                                    <h2>I create products not just art</h2>
-                                                    <p>My name is John Smith. I am a web designer and developer.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. </p>
+                                                    <h2>I am a software developer, and i design websites</h2>
+                                                    <p>My name is Bekhruz Dosmukhamedov. I am from Uzbekistan, I am 20 years old, and on the year of 2020 I started to learn about IT, about how to be a software developer. I have a teacher named Jon Toshmatov, he is an amazing teacher, he has 25 years of It experience, he has his own webiste called MYITEDU, he is the best teacher, he has been teaching me everything i know now. My goal is to become a professional IT web developer, be on the top of the list and learn about everything in the IT world. This is my first website I worked on and I'm thinking it's coming out really great, I plan on to work on many more projects and get my certification and found my dream job in the IT world.
                                                     <a href="#" class="theme-btn">Lets Chat</a>
                                                 </div>
                                             </div>
@@ -246,6 +246,7 @@
                                             </div>
                                         </div>
                                     </div>
+
                                 </div>
                                 <div id="Services" class="tab-pane">
                                     <div class="wpo-service-item">
@@ -487,14 +488,14 @@
                         <div class="wpo-testimonial-wrap">
                             <div class="wpo-testimonial-item">
                                 <div class="wpo-testimonial-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. </p>
+                                    <p>My name is Jon Toshmatov and I am a Web developer. </p>
                                     <div class="wpo-testimonial-item">
                                         <div class="wpo-testimonial-img">
                                             <img src="assets/images/testimonials/img-1.jpg" alt="">
                                         </div>
                                         <div class="wpo-testimonial-thumb">
-                                            <h4>John Harry</h4>
-                                            <span>CEO of Moderntern</span>
+                                            <h4>Jon Toshmatov</h4>
+                                            <span>MYITEDU Web Developer</span>
                                         </div>
                                     </div>
                                 </div>
@@ -584,7 +585,7 @@
                                 <div class="col col-lg-6 col-md-6 col-12">
                                     <div class="wpo-contact-info">
                                         <div class="info-item">
-                                            <h2>25 North Street,Dubai</h2>
+                                            <h2>2126 Benson avenue.</h2>
                                             <div class="info-wrap">
                                                 <div class="info-icon">
                                                     <i class="fi flaticon-worldwide"></i>
@@ -595,7 +596,7 @@
                                             </div>
                                         </div>
                                         <div class="info-item">
-                                            <h2>info@edefytheme.com</h2>
+                                            <h2>Dosmukhamedovb@gmail.com</h2>
                                             <div class="info-wrap">
                                                 <div class="info-icon">
                                                     <i class="fi flaticon-mail"></i>
@@ -606,7 +607,7 @@
                                             </div>
                                         </div>
                                         <div class="info-item">
-                                            <h2>+91 256-987-239</h2>
+                                            <h2>+1 347-319-6520</h2>
                                             <div class="info-wrap">
                                                 <div class="info-icon">
                                                     <i class="fi flaticon-phone"></i>
