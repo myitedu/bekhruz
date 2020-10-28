@@ -131,9 +131,9 @@
                             <p class="wow fadeInUp" data-wow-delay="0.8s">Software Developer</p>
                             <div class="bg-social wow fadeInUp" data-wow-delay="1.0s">
                                 <ul>
-                                    <li><a href="#"><i class="ti-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="ti-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="ti-instagram"></i></a></li>
+                                    <li><a href="https://www.facebook.com/myitedu"><i class="ti-facebook"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/myitedu"><i class="ti-linkedin"></i></a></li>
+                                    <li><a href="https://www.instagram.com/myitedu"><i class="ti-instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -195,6 +195,7 @@
                                                 <div class="wpo-about-text">
                                                     <h2>I am a software developer, and i design websites</h2>
                                                     <p>My name is Bekhruz Dosmukhamedov. I am from Uzbekistan, I am 20 years old, and on the year of 2020 I started to learn about IT, about how to be a software developer. I have a teacher named Jon Toshmatov, he is an amazing teacher, he has 25 years of It experience, he has his own webiste called MYITEDU, he is the best teacher, he has been teaching me everything i know now. My goal is to become a professional IT web developer, be on the top of the list and learn about everything in the IT world. This is my first website I worked on and I'm thinking it's coming out really great, I plan on to work on many more projects and get my certification and found my dream job in the IT world.
+                                                    <br>
                                                     <a href="#" class="theme-btn">Lets Chat</a>
                                                 </div>
                                             </div>
@@ -404,77 +405,9 @@
         </div>
         <!-- wpo-about-area start -->
 
-        <!-- protfolio area start -->
 
-        <div class="wpo-protfolio-area section-padding">
-            <div class="container">
-                <div class="col-12">
-                    <div class="section-title">
-                        <h2>Portfolio</h2>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-12">
-                        <div class="wpo-protfolio-item">
-                             <div class="row">
-                                <div class="col col-lg-6 col-md-6 col-sm-6 custom-grid">
-                                    <div class="wpo-protfolio-left">
-                                        <div class="wpo-protfolio-single">
-                                            <div class="wpo-protfolio-img">
-                                                <img src="assets/images/protfolio/img-1.jpg" alt="">
-                                            </div>
-                                            <div class="wpo-protfolio-text">
-                                                <h2>Minimalism</h2>
-                                                <span>Illustration . Art Direction</span>
-                                                <a href="#">View Work</a>
-                                            </div>
-                                        </div>
-                                        <div class="wpo-protfolio-single">
-                                            <div class="wpo-protfolio-img">
-                                                <img src="assets/images/protfolio/img-2.jpg" alt="">
-                                            </div>
-                                            <div class="wpo-protfolio-text">
-                                                <h2>3D Project</h2>
-                                                <span>Illustration . Art Direction</span>
-                                                <a href="#">View Work</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col col-lg-6 col-md-6 col-sm-6 custom-grid">
-                                    <div class="wpo-protfolio-right">
-                                        <div class="wpo-protfolio-single">
-                                            <div class="wpo-protfolio-img">
-                                                <img src="assets/images/protfolio/img-3.jpg" alt="">
-                                            </div>
-                                            <div class="wpo-protfolio-text">
-                                                <h2>Abstract Art</h2>
-                                                <span>Illustration . Art Direction</span>
-                                                <a href="#">View Work</a>
-                                            </div>
-                                        </div>
-                                        <div class="wpo-protfolio-single">
-                                            <div class="wpo-protfolio-img">
-                                                <img src="assets/images/protfolio/img-4.jpg" alt="">
-                                            </div>
-                                            <div class="wpo-protfolio-text">
-                                                <h2>Modern BG</h2>
-                                                <span>Illustration . Art Direction</span>
-                                                <a href="#">View Work</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="protfolio-btn">
-                                <a href="#">See More Work...</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- protfolio area end -->
+
+
         <!-- wpo-testimonial-area start -->
         <div class="wpo-testimonial-area section-padding">
             <div class="container">
